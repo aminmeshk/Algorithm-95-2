@@ -19,7 +19,7 @@ public class Algorithm952 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner input = new Scanner(System.in);
-        
+        // **********************************
         System.out.println("************      Menu      ************** \n Plz Enter One of the Menu Numbers");
         System.out.println("1. Exit \n2. Example 1\n3. etc");
         while(true)
